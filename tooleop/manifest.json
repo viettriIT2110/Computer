@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Tool eop",
+    "description": "make your exercises more easier :v",
+    "content_scripts": [{
+        "matches": [
+            "*://eop.edu.vn/study/task/*"
+        ],
+        "js": ["/node_modules/jquery/dist/jquery.min.js", "content.js"]
+    }],
+    "browser_action": {
+        "default_icon" : {
+            "16": "images/icon16.png",
+            "24": "images/icon24.png",
+            "32": "images/icon32.png"
+        },
+        "default_title": "click here to show pop up",
+        "default_popup": "popup.html"
+    }
+}
