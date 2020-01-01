@@ -7,3 +7,5 @@ Yêu cầu:
 - HĐH: Window (7, 8, 10 đều được)
 - Download và cài đặt python (https://python.org/)
 - Download  dump.py
+- Chạy ct dump.py 
+sau khi chạy lệnh bạn sẽ có toàn bộ password lưu trên chrome nằm trong file passdump.txt trong cùng thư mục.
