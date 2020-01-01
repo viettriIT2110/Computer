@@ -6,3 +6,4 @@
 Yêu cầu:
 - HĐH: Window (7, 8, 10 đều được)
 - Download và cài đặt python (https://python.org/)
+- Download  dump.py
